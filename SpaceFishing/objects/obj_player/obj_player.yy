@@ -25,7 +25,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_collision",
+  "name": "obj_player",
   "tags": [],
   "resourceType": "GMObject",
 }
