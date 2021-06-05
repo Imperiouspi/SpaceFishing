@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":0,},
     {"id":{"name":"canoe_placeholder","path":"sprites/canoe_placeholder/canoe_placeholder.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
