@@ -21,7 +21,7 @@ else if forwardHoldTime == 0{
 
 //friction
 if (vy > 0){
-	vy -= power(vy,2)*d_coeff
+	vy -= power(vy,1.75)*d_coeff
 }
 
 if (vy < 0) {

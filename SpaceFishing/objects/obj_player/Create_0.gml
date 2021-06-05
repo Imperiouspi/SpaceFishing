@@ -7,8 +7,8 @@ rotation = 0;
 forwardHoldTime = 0;
 
 aBellCurve = 1.5; //max acceleration
-bBellCurve = 1.0; //boptimal stroke time
-cBellCurve = 1.5; // curve width
+bBellCurve = 0.75; //boptimal stroke time
+cBellCurve = 0.75; // curve width
 
-water_drag = 0.01
-paddle_drag = 0.005
+water_drag = 0.005
+paddle_drag = 0.0075
