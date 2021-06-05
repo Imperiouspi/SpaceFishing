@@ -25,11 +25,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-<<<<<<< HEAD:SpaceFishing/objects/obj_canoe/obj_canoe.yy
-  "name": "obj_canoe",
-=======
   "name": "obj_collision",
->>>>>>> origin/main:SpaceFishing/objects/obj_collision/obj_collision.yy
   "tags": [],
   "resourceType": "GMObject",
 }
