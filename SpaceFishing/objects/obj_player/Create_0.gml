@@ -1,2 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Setup and variables
+
+vx = 0;
+vy = 0;
+rotation = 0;
