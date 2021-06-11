@@ -1,7 +1,7 @@
 /// @description This code happens every game frame
 
 //Accelerate if "W" is held
-if keyboard_check(87) == 1 {
+if keyboard_check(87) == 1{
 	forwardHoldTime += 1;
 	//show_debug_message(string(forwardHoldTime));
 }

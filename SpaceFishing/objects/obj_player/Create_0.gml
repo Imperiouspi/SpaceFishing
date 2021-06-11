@@ -16,5 +16,5 @@ paddle_drag = 0.004
 extra_drag = 0.02
 
 glide = 0
-glide_time = 0.15 //time in s
+glide_time = 0.2 //time in s
 glide_start = 1
